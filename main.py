@@ -1,10 +1,7 @@
-import texto
-import ventanas
+import base_datos
 
-ventanas.mostrar_ventana1()
-ventanas.mostrar_ventana2()
+base_datos.guardar_palabras
 
-texto.obtener_palabras()
+base_datos.mostrar_ventana1
 
-
-
+base_datos.mostrar_ventana2
